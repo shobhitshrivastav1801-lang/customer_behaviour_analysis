@@ -1,4 +1,4 @@
-# Customer_Behaviour_Analysis
+# Customer_Behaviour_Analysis  [ CBA ]
 Data analytics project showcasing customer behaviour analysis using Python, SQL, Power BI
 
 ## Business Problem Statement 
